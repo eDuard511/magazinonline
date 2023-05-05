@@ -1,0 +1,113 @@
+[
+    {
+        "id": 1 ,
+        "image" : "https://sneaker-store.ro/image/cache/catalog/catalog/catalog/catalog/catalog/data/Jordan-Brand-Air-Jordan-5-Retro-DD0587-141-650x650.jpg",
+        "name" : "JORDAN BRAND AIR JORDAN 5 RETRO DD0587-141" ,
+        "price" : 1049 ,
+        "category" : "men",
+        "brand" : "jordan",
+        "color" : "white" ,
+        "addedNew" : "yes",
+        "buy" : "Add to Cart"
+    },
+    {
+        "id" : 2 ,
+        "image": "https://sneaker-store.ro/image/cache/catalog/catalog/catalog/catalog/catalog/data/Nike-Air-Jordan-12-CT8013-071-650x650.jpg",
+        "name" : "NIKE AIR JORDAN 12 CT8013-071" ,
+        "price" : 999 ,
+        "category" : "men",
+        "brand" : "nike",
+        "color" : "black" ,
+        "addedNew" : "no",
+        "buy" : "Add to Cart"
+    },
+    {
+        "id": 3 ,
+        "image" : "https://sneaker-store.ro/image/cache/catalog/catalog/catalog/catalog/catalog/data/Air-Jordan-1-Retro-High-Co.Jp-DQ0660-100-1-650x650.jpg",
+        "name" : "AIR JORDAN 1 RETRO HIGH CO.JP DQ0660-100" ,
+        "price" : 949 , 
+        "category" : "men",
+        "brand" : "jordan",
+        "color" : "white" ,
+        "addedNew" : "yes",
+        "buy" : "Add to Cart"
+    },
+    {
+        "id" : 4 ,
+        "image" : "https://sneaker-store.ro/image/cache/catalog/catalog/catalog/catalog/catalog/data/Nike-Air-More-Uptempo-FB1380-100-650x650.jpg",
+        "name" : "NIKE AIR MORE UPTEMPO FB1380-100" ,
+        "price" : 919 ,
+        "category" : "woman",
+        "brand" : "nike",
+        "color" : "white" ,
+        "addedNew" : "yes",
+        "buy" : "Add to Cart"
+    },
+    {
+        "id" : 5 ,
+        "image" : "https://sneaker-store.ro/image/cache/catalog/catalog/catalog/catalog/catalog/data/EA7-Emporio-Armani-XK267-X8Z033-R391-650x650.jpg",
+        "name" : "EA7 EMPORIO ARMANI XK219-X8X027-Q226",
+        "price" : 919 ,
+        "category" : "men",
+        "brand" : "armani",
+        "color" : "red" ,
+        "addedNew" : "yes",
+        "buy" : "Add to Cart"
+    },
+    {
+        "id" : 6 ,
+        "image" : "https://sneaker-store.ro/image/cache/catalog/catalog/catalog/catalog/catalog/data/EA7-Emporio-Armani-XK219-X8X027-Q226-650x650.jpg",
+        "name" : "EA7 EMPORIO ARMANI XK219-X8X027-Q226" ,
+        "price" : 919 ,
+        "category" : "men",
+        "brand" : "armani",
+        "color" : "black" ,
+        "addedNew" : "no",
+        "buy" : "Add to Cart"
+    },
+    {
+        "id" : 7 ,
+        "image" : "https://sneaker-store.ro/image/cache/catalog/catalog/catalog/catalog/catalog/data/EA7-Emporio-Armani-XK173-X8X027-P962-650x650.jpg",
+        "name" : "EA7 EMPORIO ARMANI XK173-X8X027-P962 ",
+        "price" : 919 ,
+        "category" : "woman",
+        "brand" : "armani",
+        "color" : "black" ,
+        "addedNew" : "no",
+        "buy" : "Add to Cart"
+    },
+    {
+        "id" : 8 ,
+        "image" : "https://sneaker-store.ro/image/cache/catalog/catalog/catalog/catalog/catalog/data/EA7-Emporio-Armani-XK173-X8X027-A083-650x650.jpg",
+        "name" : "EA7 EMPORIO ARMANI XK173-X8X027-A083" ,
+        "price" : 919,
+        "category" : "men",
+        "brand" :" armani",
+        "color" : "black" ,
+        "addedNew" : "no",
+        "buy" : "Add to Cart"
+    },
+    {
+        "id" : 9 ,
+        "image" : "https://sneaker-store.ro/image/cache/catalog/catalog/catalog/catalog/catalog/data/NiKE-AiR-MAX-97-DX0137-600-650x650.jpg",
+        "name" : "NIKE AIR MAX 97 DX0137-600" ,
+        "price" : 839,
+        "category" : "woman",
+        "brand" : "nike",
+        "color" : "pink" ,
+        "addedNew" : "no",
+        "buy" : "Add to Cart"
+    },
+    {
+        "id" : 10 ,
+        "image" : "https://sneaker-store.ro/image/cache/catalog/catalog/catalog/catalog/catalog/data/Jordan-1-Zoom-Air-Comfort-CT0979-603-650x650.jpg" ,
+        "name" : "JORDAN 1 ZOOM AIR COMFORT CT0979-603 ",
+        "price" : 400 ,
+        "category" : "woman",
+        "brand" : "jordan",
+        "color" : "red" ,
+        "addedNew" : "no",
+        "buy" : "Add to Cart"
+    }
+    
+]

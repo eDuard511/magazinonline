@@ -1,0 +1,105 @@
+.cartContainer{
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+
+.cartItem{
+border-radius: 15px;
+width: 300px;
+margin-bottom: 15px;
+box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+}
+
+img{
+    height: 300px;
+    width: 300px;
+}
+
+#name{
+text-align: center;
+font-size: 17px;
+}
+
+#price{
+text-align: center;
+font-size: 17px;
+}
+
+
+.add {
+  background-image: linear-gradient(-180deg, black 0%, grey 100%);
+  border-radius: .5rem;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  font-size: 16px;
+  justify-content: center;
+  text-decoration: none;
+  border: 0;
+  width: 30px;
+  height: 20px;
+  cursor: pointer;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.add:hover {
+  background-image: linear-gradient(-180deg, #ffffff 0%, grey 100%);
+}
+
+.remove {
+    background-image: linear-gradient(-180deg, black 0%, grey 100%);
+    border-radius: .5rem;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    font-size: 16px;
+    justify-content: center;
+    text-decoration: none;
+    border: 0;
+    width: 30px;
+    height: 20px;
+    cursor: pointer;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    margin-left: 109px;
+  }
+  
+  .remove:hover {
+    background-image: linear-gradient(-180deg, #ffffff 0%, grey 100%);
+  }
+
+.cartItem input {
+width: 20px;
+font-size: 17px;
+}
+
+.checkout {
+display: flex;
+flex-direction: column;
+}
+
+.checkout button {
+    background-image: linear-gradient(-180deg, black 0%, grey 100%);
+    border-radius: .5rem;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    font-size: 16px;
+    justify-content: center;
+    text-decoration: none;
+    border: 0;
+    cursor: pointer;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    margin-bottom: 10px;
+  }
+  
+  .checkout button:hover {
+    background-image: linear-gradient(-180deg, #ffffff 0%, grey 100%);
+  }
+
+.checkout p {
+font-size: 25px;
+}
